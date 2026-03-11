@@ -12,6 +12,7 @@ This project predicts sales using a machine learning model built using Python.
 - Data cleaning
 - Feature engineering
 - Linear regression model
+- Random forest regressor
 - Sales prediction visualization
 
 ## Dataset
